@@ -64,7 +64,7 @@ var (
 //go:generate go run cmd/generate.go yaml/zh-TW.yml locales/zh-tw.go
 
 // Locale holds the default locale.
-var Locale = locales.En
+var Locale = locales.De
 
 // RandomInt returns random int in [min, max] range.
 func RandomInt(min, max int) int {
