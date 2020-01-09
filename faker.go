@@ -3,7 +3,7 @@ Package faker is a library for generating fake data such as names, addresses, an
 
 It is a (mostly) API-compatible port of Ruby Faker gem (https://github.com/stympy/faker) to Go.
 */
-package faker // import "syreclabs.com/go/faker"
+package faker // import "github.com/omnea/faker"
 
 import (
 	"fmt"

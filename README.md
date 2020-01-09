@@ -10,7 +10,7 @@ It is a (mostly) API-compatible port of Ruby Faker gem (https://github.com/stymp
 
 To install
 
-    go get -u syreclabs.com/go/faker
+    go get -u github.com/omnea/faker
 
 ## Usage
 
