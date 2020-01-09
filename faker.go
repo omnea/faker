@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	"syreclabs.com/go/faker/locales"
+	"github.com/omnea/faker/locales"
 )
 
 const (

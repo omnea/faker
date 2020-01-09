@@ -1,3 +1,3 @@
-module syreclabs.com/go/faker
+module github.com/omnea/faker
 
-go 1.11
+go 1.12
